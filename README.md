@@ -45,3 +45,20 @@ git clone https://github.com/Benjamin63B/Trouve-ton-artisan.git
 ```bash
   npm run start
 ```
+## 🌍 Accéder au projet en ligne  
+
+Le projet est déployé et accessible à l'adresse suivante :  
+
+🔗 **[Trouve-ton-artisan](https://trouve-ton-artisan-pi.vercel.app/)**  
+
+Cliquez sur le lien ci-dessus pour découvrir la plateforme en action ! 🎉  
+
+---
+
+### 📌 Déploiement  
+L'application est hébergée sur **Vercel**, garantissant :  
+✅ Un chargement rapide 🚀  
+✅ Une haute disponibilité 🌍  
+✅ Des mises à jour automatiques après chaque commit sur la branche principale  
+
+Si vous souhaitez proposer des améliorations, vous pouvez **forker** le projet et soumettre une **pull request** ! 🤝  
