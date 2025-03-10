@@ -9,7 +9,7 @@ L’objectif est de permettre aux particuliers de :
 ✅ Trouver un **artisan** facilement  
 ✅ Demander des **renseignements, prestations ou tarifs** via un formulaire de contact  
 
-### 🖌️ Phase 1 : conception du Design  
+### 🖌️ Phase 1 : conception du design  
 Avant de commencer le développement, la région souhaite **valider les maquettes** pour :  
 📱 **Mobile**  
 💻 **Tablette**  
