@@ -9,13 +9,13 @@ L’objectif est de permettre aux particuliers de :
 ✅ Trouver un **artisan** facilement  
 ✅ Demander des **renseignements, prestations ou tarifs** via un formulaire de contact  
 
-### 🖌️ Phase 1 : Conception du Design  
+### 🖌️ Phase 1 : conception du Design  
 Avant de commencer le développement, la région souhaite **valider les maquettes** pour :  
 📱 **Mobile**  
 💻 **Tablette**  
 🖥️ **Ordinateur**  
 
-### 💻 Phase 2 : Développement du Frontend  
+### 💻 Phase 2 : développement du frontend  
 - L'interface devra interagir avec une **API** en cours de développement  
 - En attendant, un **fichier JSON** sera utilisé pour simuler les **données dynamiques**  
 
