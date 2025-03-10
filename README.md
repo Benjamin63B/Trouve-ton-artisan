@@ -49,7 +49,7 @@ git clone https://github.com/Benjamin63B/Trouve-ton-artisan.git
 
 Le projet est déployé et accessible à l'adresse suivante :  
 
-🔗 **[Trouve-ton-artisan](https://trouve-ton-artisan-pi.vercel.app/)**  
+🔗 **[Trouve-ton-artisan](https://trouve-ton-artisan-eight.vercel.app/)**  
 
 Cliquez sur le lien ci-dessus pour découvrir la plateforme en action ! 🎉  
 
