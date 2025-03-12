@@ -49,7 +49,9 @@ git clone https://github.com/Benjamin63B/Trouve-ton-artisan.git
 
 Le projet est déployé et accessible à l'adresse suivante :  
 
+🔗 **[Branch Principal](https://github.com/Benjamin63B/Trouve-ton-artisan/tree/principal)**
 🔗 **[Trouve-ton-artisan](https://trouve-ton-artisan-eight.vercel.app/)**  
+
 
 Cliquez sur le lien ci-dessus pour découvrir la plateforme en action ! 🎉  
 
