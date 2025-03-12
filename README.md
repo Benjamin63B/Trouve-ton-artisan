@@ -23,6 +23,9 @@ Avant de commencer le développement, la région souhaite **valider les maquette
 
 ## 🚀 Installation & Lancement  
 
+### **⚠️ Les fichiers**
+🔗 **[Branch Principal](https://github.com/Benjamin63B/Trouve-ton-artisan/tree/principal)**
+
 ### 1️⃣ **Cloner le projet**  
 ```bash
 git clone https://github.com/Benjamin63B/Trouve-ton-artisan.git
@@ -49,7 +52,6 @@ git clone https://github.com/Benjamin63B/Trouve-ton-artisan.git
 
 Le projet est déployé et accessible à l'adresse suivante :  
 
-🔗 **[Branch Principal](https://github.com/Benjamin63B/Trouve-ton-artisan/tree/principal)**
 🔗 **[Trouve-ton-artisan](https://trouve-ton-artisan-eight.vercel.app/)**  
 
 
